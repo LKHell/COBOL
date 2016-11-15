@@ -1,0 +1,75 @@
+Import Summary
+=================================================================================================================================================
+
+Import start time - 2015/11/1 14:33:27
+
+Time to complete the import - 9 seconds.
+
+1 Visual Studio project was created in a new atm.sln solution.
+
+No projects failed to import.
+
+No projects were skipped.
+
+
+Solution messages
+==================
+
+  * Added project 'atm' to solution
+
+
+Visual Studio project build configuration
+===========================================
+
+  * Debug
+
+
+1 project was created
+=========================
+
+ atm (14 Files)
+ ==============
+
+   Project messages
+   =================
+
+       * Output type: INT/GNT
+       * Debug|x86 -> Additional compiler directives: sourcetabstop(8)
+       * Debug|x86 -> Config Property DebugSymbols set to True
+       * Debug|x86 -> Config Property ManagedCode set to False
+       * Debug|x86 -> Config Property MaxError set to 100
+       * Debug|x86 -> Config Property OutputPath set to DEBUG
+       * Debug|x86 -> Config Property PlatformTarget set to x86
+       * Debug|x86 -> User Config Property MultiOutputDebugTarget set to ATM.Int
+       * Release|x86 -> Additional compiler directives: sourcetabstop(8)
+       * Release|x86 -> Config Property DebugSymbols set to True
+       * Release|x86 -> Config Property ManagedCode set to False
+       * Release|x86 -> Config Property MaxError set to 100
+       * Release|x86 -> Config Property Optimize set to True
+       * Release|x86 -> Config Property OutputPath set to RELEASE
+       * Release|x86 -> Config Property PlatformTarget set to x86
+       * Release|x86 -> User Config Property MultiOutputDebugTarget set to ATM.Int
+
+
+   Files added to the project
+   ===========================
+
+       * Account.cbl
+       * Add-money.cbl
+       * ATM.cbl
+       * ATM-Info.cbl
+       * Bank.cbl
+       * DebitCard.cbl
+       * IdentifiesATM.cbl
+       * IdentifiesBank.cbl
+       * Menu.cbl
+       * Pin-Changer.cbl
+       * Print-Query.cbl
+       * request-account.cbl
+       * Subtract-money.cbl
+       * Valida-Acceso.cbl
+
+
+
+
+
